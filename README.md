@@ -32,7 +32,7 @@ The alert can be in the form of an audible alarm, visual warning, or haptic feed
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/driver-drowsiness-detection.git
