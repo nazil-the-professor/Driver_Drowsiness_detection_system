@@ -35,6 +35,6 @@ The alert can be in the form of an audible alarm, visual warning, or haptic feed
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/driver-drowsiness-detection.git
+git clone https://github.com/nazil-the-professor/driver-drowsiness-detection.git
 ```
 https://github.com/user-attachments/assets/13f0a702-1af7-4c69-8163-b312d7d17442
