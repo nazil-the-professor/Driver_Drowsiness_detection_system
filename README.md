@@ -8,7 +8,7 @@ It detects drowsiness in real-time by analyzing the driver's facial features and
 
 ## Features 
 
-- Real-time detection of driver drowsiness 
+- Real-time detection of driver drowsiness  
 - Alerts the driver when signs of drowsiness are detected 
 - Easy to integrate with existing dashcam systems
 - Adjustable sensitivity levels for different driving conditions
